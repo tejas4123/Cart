@@ -1,50 +1,50 @@
 [
     {
         "id": 1,
-        "name":" LD01 LOUNGE CHAIR",
-        "price": 200,
+        "name":" WHITE CHOCOLATE",
+        "price": 7,
         "image": "./images/pngwing.com.png"
     },
     {
         "id": 2,
-        "name":" LD02 LOUNGE CHAIR",
-        "price": 250,
+        "name":" MILK CHOCOLATE",
+        "price": 2.55,
         "image": "./images/pngwing.com (1).png"
     },
     {
         "id": 3,
-        "name":" LD03 LOUNGE CHAIR",
-        "price": 290,
+        "name":" DARK CHOCOLATE",
+        "price": 3.67,
         "image": "./images/pngwing.com (2).png"
     },
     {
         "id": 4,
-        "name":" LD04 LOUNGE CHAIR",
-        "price": 200,
+        "name":" SEMI SWEET CHOCOLATE",
+        "price": 4,
         "image":"./images/pngwing.com (3).png"
     },
     {
         "id": 5,
-        "name":" LD05 LOUNGE CHAIR",
-        "price": 300,
+        "name":" BITTER SWEET CHOCOLATE",
+        "price": 5,
         "image": "./images/pngwing.com (4).png"
     },
     {
         "id": 6,
-        "name":" LD06 LOUNGE CHAIR",
-        "price": 200,
+        "name":" UNSWEETENED CHOCOLATE",
+        "price": 2,
         "image":"./images/pngwing.com (5).png"
     },
     {
         "id": 7,
-        "name":" LD07 LOUNGE CHAIR",
-        "price": 200,
+        "name":" SWEET GERMAN CHOCOLATE",
+        "price": 1,
         "image": "./images/pngwing.com (6).png"
     },
     {
         "id": 8,
-        "name":" LD08 LOUNGE CHAIR",
-        "price": 200,
+        "name":" RUBY CHOCOLATE",
+        "price": 10,
         "image": "./images/pngwing.com (7).png"
     }
 
